@@ -1,0 +1,29 @@
+body {
+    background-color: #121116;
+    font-family: monospace;
+    
+}
+table {
+    width: 500px;
+    
+}
+hr {
+    width: 280px;
+}
+.title {
+    text-align: center;
+    
+}
+h1 { 
+    color: white;
+    font-size: 22px;
+    
+}
+p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+a {
+    text-decoration: none;
+}
