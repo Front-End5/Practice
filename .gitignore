@@ -2,3 +2,5 @@
 */*.html
 *.css
 */*.css
+*/prepros-6.config
+*.map
